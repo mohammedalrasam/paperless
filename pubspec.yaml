@@ -6,11 +6,11 @@ version: 1.0.0+1
 environment:
   sdk: '>=3.0.0 <4.0.0'
 
-dependencies:
+ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
-  advanced_document_scanner: ^2.1.0
+  flutter_doc_scanner: ^0.0.21
   pdf: ^3.10.8
   google_mobile_ads: ^5.1.0
   path_provider: ^2.1.2
